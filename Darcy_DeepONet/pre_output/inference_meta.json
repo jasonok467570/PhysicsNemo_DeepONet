@@ -1,0 +1,12 @@
+{
+  "input_keys": [
+    "coeff",
+    "x",
+    "y"
+  ],
+  "output_keys": [
+    "sol"
+  ],
+  "branch_hw": 32,
+  "branch_dim": 1024
+}
